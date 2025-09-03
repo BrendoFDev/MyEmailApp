@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MyEmailApp.Pages.UserSettingPage"
+             Title="UserEmailSettings">
+    <VerticalStackLayout>
+        <Label Text="Nome"/>
+        <Entry 
+            x:Name="txtName"
+            Placeholder="Seu nome"/>
+        
+        <Label Text="Email"/>
+        <Entry 
+            x:Name="txtEmail"
+            Placeholder="Seu email"/>
+
+        <Label Text="Senha"/>
+        <Entry 
+            x:Name="txtPassword"
+            Placeholder="Senha de App criada no Email"/>
+        <Button 
+            x:Name="btnSave"
+            Text="Salvar Configurações"
+            Clicked="btnSave_Clicked"/>
+    </VerticalStackLayout>
+</ContentPage>

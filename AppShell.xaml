@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="MyEmailApp.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:MyEmailApp.Pages"
+    Shell.FlyoutBehavior="Flyout"
+    Title="MyEmailApp">
+
+    <ShellContent
+       Title="Casa"
+       ContentTemplate="{DataTemplate local:MainPage}"
+       Route="MainPage" />
+
+    <ShellContent 
+       Title="Cadastrar Modelo" 
+       ContentTemplate="{DataTemplate local:EmailFactoryPage}"
+       Route="EmailFactoryPage"/>
+
+    <ShellContent 
+       Title="Enviar Email" 
+       ContentTemplate="{DataTemplate local:EmailSenderPage}"
+       Route="EmailSenderPage"/>
+
+    <ShellContent 
+       Title="Cadastrar Email" 
+       ContentTemplate="{DataTemplate local:RegisterEmailPage}"
+       Route="RegisterEmailPage"/>
+
+    <ShellContent 
+       Title="Configurações" 
+       ContentTemplate="{DataTemplate local:UserSettingPage}"
+       Route="RegisterEmailPage"/>
+
+</Shell>
