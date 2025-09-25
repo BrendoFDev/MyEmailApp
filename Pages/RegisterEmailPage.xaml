@@ -11,7 +11,6 @@
             Placeholder="Email do seu destinatário"/>
         <Button 
             x:Name="btnSave"
-            Text="Salvar" 
-            Clicked="btnSave_Clicked"/>
+            Text="Salvar" />
     </VerticalStackLayout>
 </ContentPage>

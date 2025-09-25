@@ -4,32 +4,52 @@
     xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
     xmlns:local="clr-namespace:MyEmailApp.Pages"
-    Shell.FlyoutBehavior="Flyout"
-    Title="MyEmailApp">
+    Shell.FlyoutBehavior="Disabled"
+    Title="MyEmailApp"
+    Shell.TabBarTitleColor="white"
+    Shell.TabBarUnselectedColor="#778f8d"
+    Shell.TitleColor="white">
 
-    <ShellContent
-       Title="Casa"
-       ContentTemplate="{DataTemplate local:MainPage}"
-       Route="MainPage" />
+    <TabBar>
+        <Tab 
+            Title="Novo Modelo" 
+            Icon="envelope_plus_fill.png">
+            <ShellContent 
+               ContentTemplate="{DataTemplate local:EmailFactoryPage}"
+               Route="EmailFactoryPage"/>
+        </Tab>
 
-    <ShellContent 
-       Title="Cadastrar Modelo" 
-       ContentTemplate="{DataTemplate local:EmailFactoryPage}"
-       Route="EmailFactoryPage"/>
+        <Tab 
+            Title="Enviar Email" 
+            Icon="send_plus.png">
+            <ShellContent 
+                ContentTemplate="{DataTemplate local:EmailSenderPage}"
+                Route="EmailSenderPage"/>
+        </Tab>
 
-    <ShellContent 
-       Title="Enviar Email" 
-       ContentTemplate="{DataTemplate local:EmailSenderPage}"
-       Route="EmailSenderPage"/>
+        <Tab 
+             Title="Casa"
+             Icon="house.png">
+            <ShellContent
+                ContentTemplate="{DataTemplate local:MainPage}"
+                Route="MainPage" /> 
+        </Tab>
 
-    <ShellContent 
-       Title="Cadastrar Email" 
-       ContentTemplate="{DataTemplate local:RegisterEmailPage}"
-       Route="RegisterEmailPage"/>
+        <Tab     
+            Title="Cadastrar Email" 
+            Icon="person_plus_fill.png">
+            <ShellContent 
+                ContentTemplate="{DataTemplate local:RegisterEmailPage}"
+                Route="RegisterEmailPage"/>
+        </Tab>
 
-    <ShellContent 
-       Title="Configurações" 
-       ContentTemplate="{DataTemplate local:UserSettingPage}"
-       Route="RegisterEmailPage"/>
-
+        <Tab   
+            Title="Configurações" 
+            Icon="gear_wide_connected.png">
+            <ShellContent 
+                ContentTemplate="{DataTemplate local:UserSettingPage}"
+                Route="UserSettingPage"/>
+        </Tab>
+       
+    </TabBar>
 </Shell>

@@ -2,23 +2,26 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="MyEmailApp.Pages.EmailFactoryPage"
-             Shell.FlyoutBehavior="Flyout"
-             Title="Cadastrar Modelo">
-    <VerticalStackLayout Spacing="10" Margin="10">
-        <Label Text="Nome do Modelo:"/>
+             Shell.FlyoutBehavior="Disabled" 
+             Title="Novo Modelo">
+    
+    <VerticalStackLayout Margin="10" VerticalOptions="Center">
+        <Label Text="Nome do Modelo:" Style="{StaticResource LabelStyle}"/>
         <Entry 
             x:Name="txtModelName"
-            Placeholder="Nome do novo modelo"/>
+            Placeholder="Nome do novo modelo"
+            Style="{StaticResource EntryStyle}"/>
 
-        <Label Text="Assunto:"/>
+        <Label Text="Assunto:" Style="{StaticResource LabelStyle}"/>
         <Entry 
             x:Name="txtTopic" 
-            Placeholder="Escreva o assunto do Email"/>
+            Placeholder="Escreva o assunto do Email"
+            Style="{StaticResource EntryStyle}"/>
 
-        <Label Text="Mensagem:"/>
+        <Label Text="Mensagem:" Style="{StaticResource LabelStyle}"/>
         <Editor 
             x:Name="txtMessage" 
-            Placeholder="Mensagem padronizada"/>
+            Placeholder="Mensagem padronizada" HeightRequest="200"/>
 
         <Button 
             x:Name="btnSave" 

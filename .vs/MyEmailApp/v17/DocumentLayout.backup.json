@@ -1,58 +1,58 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\brendo\\source\\repos\\MyEmailApp\\",
+  "WorkspaceRootPath": "C:\\Users\\draka\\source\\repos\\MyEmailApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{26AD6BBD-D489-4780-A99E-BD622652DE3C}|MyEmailApp.csproj|c:\\users\\brendo\\source\\repos\\myemailapp\\pages\\usersettingpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26AD6BBD-D489-4780-A99E-BD622652DE3C}|MyEmailApp.csproj|solutionrelative:pages\\usersettingpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26AD6BBD-D489-4780-A99E-BD622652DE3C}|MyEmailApp.csproj|c:\\users\\brendo\\source\\repos\\myemailapp\\pages\\registeremailpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
-      "RelativeMoniker": "D:0:0:{26AD6BBD-D489-4780-A99E-BD622652DE3C}|MyEmailApp.csproj|solutionrelative:pages\\registeremailpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26AD6BBD-D489-4780-A99E-BD622652DE3C}|MyEmailApp.csproj|c:\\users\\brendo\\source\\repos\\myemailapp\\pages\\emailsenderpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
-      "RelativeMoniker": "D:0:0:{26AD6BBD-D489-4780-A99E-BD622652DE3C}|MyEmailApp.csproj|solutionrelative:pages\\emailsenderpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26AD6BBD-D489-4780-A99E-BD622652DE3C}|MyEmailApp.csproj|c:\\users\\brendo\\source\\repos\\myemailapp\\pages\\emailfactorypage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
-      "RelativeMoniker": "D:0:0:{26AD6BBD-D489-4780-A99E-BD622652DE3C}|MyEmailApp.csproj|solutionrelative:pages\\emailfactorypage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26AD6BBD-D489-4780-A99E-BD622652DE3C}|MyEmailApp.csproj|c:\\users\\brendo\\source\\repos\\myemailapp\\pages\\emailsenderpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{26AD6BBD-D489-4780-A99E-BD622652DE3C}|MyEmailApp.csproj|solutionrelative:pages\\emailsenderpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26AD6BBD-D489-4780-A99E-BD622652DE3C}|MyEmailApp.csproj|c:\\users\\brendo\\source\\repos\\myemailapp\\pages\\emailfactorypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{26AD6BBD-D489-4780-A99E-BD622652DE3C}|MyEmailApp.csproj|solutionrelative:pages\\emailfactorypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26AD6BBD-D489-4780-A99E-BD622652DE3C}|MyEmailApp.csproj|c:\\users\\brendo\\source\\repos\\myemailapp\\pages\\usersettingpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{26AD6BBD-D489-4780-A99E-BD622652DE3C}|MyEmailApp.csproj|solutionrelative:pages\\usersettingpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26AD6BBD-D489-4780-A99E-BD622652DE3C}|MyEmailApp.csproj|c:\\users\\brendo\\source\\repos\\myemailapp\\pages\\registeremailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{26AD6BBD-D489-4780-A99E-BD622652DE3C}|MyEmailApp.csproj|solutionrelative:pages\\registeremailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{26AD6BBD-D489-4780-A99E-BD622652DE3C}|MyEmailApp.csproj|c:\\users\\brendo\\source\\repos\\myemailapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{26AD6BBD-D489-4780-A99E-BD622652DE3C}|MyEmailApp.csproj|c:\\users\\draka\\source\\repos\\myemailapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{26AD6BBD-D489-4780-A99E-BD622652DE3C}|MyEmailApp.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26AD6BBD-D489-4780-A99E-BD622652DE3C}|MyEmailApp.csproj|c:\\users\\brendo\\source\\repos\\myemailapp\\pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{26AD6BBD-D489-4780-A99E-BD622652DE3C}|MyEmailApp.csproj|solutionrelative:pages\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{26AD6BBD-D489-4780-A99E-BD622652DE3C}|MyEmailApp.csproj|c:\\users\\draka\\source\\repos\\myemailapp\\pages\\usersettingpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{26AD6BBD-D489-4780-A99E-BD622652DE3C}|MyEmailApp.csproj|solutionrelative:pages\\usersettingpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26AD6BBD-D489-4780-A99E-BD622652DE3C}|MyEmailApp.csproj|c:\\users\\brendo\\source\\repos\\myemailapp\\pages\\mainpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
-      "RelativeMoniker": "D:0:0:{26AD6BBD-D489-4780-A99E-BD622652DE3C}|MyEmailApp.csproj|solutionrelative:pages\\mainpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+      "AbsoluteMoniker": "D:0:0:{26AD6BBD-D489-4780-A99E-BD622652DE3C}|MyEmailApp.csproj|c:\\users\\draka\\source\\repos\\myemailapp\\pages\\usersettingpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{26AD6BBD-D489-4780-A99E-BD622652DE3C}|MyEmailApp.csproj|solutionrelative:pages\\usersettingpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26AD6BBD-D489-4780-A99E-BD622652DE3C}|MyEmailApp.csproj|c:\\users\\brendo\\source\\repos\\myemailapp\\services\\validators\\usersettingvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{26AD6BBD-D489-4780-A99E-BD622652DE3C}|MyEmailApp.csproj|solutionrelative:services\\validators\\usersettingvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{26AD6BBD-D489-4780-A99E-BD622652DE3C}|MyEmailApp.csproj|c:\\users\\draka\\source\\repos\\myemailapp\\platforms\\android\\resources\\values\\colors.xml||{6B79B2C4-8503-4A04-8248-ADCEF2B49CB1}",
+      "RelativeMoniker": "D:0:0:{26AD6BBD-D489-4780-A99E-BD622652DE3C}|MyEmailApp.csproj|solutionrelative:platforms\\android\\resources\\values\\colors.xml||{6B79B2C4-8503-4A04-8248-ADCEF2B49CB1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{26AD6BBD-D489-4780-A99E-BD622652DE3C}|MyEmailApp.csproj|c:\\users\\brendo\\source\\repos\\myemailapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{26AD6BBD-D489-4780-A99E-BD622652DE3C}|MyEmailApp.csproj|c:\\users\\draka\\source\\repos\\myemailapp\\resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{26AD6BBD-D489-4780-A99E-BD622652DE3C}|MyEmailApp.csproj|solutionrelative:resources\\styles\\styles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26AD6BBD-D489-4780-A99E-BD622652DE3C}|MyEmailApp.csproj|c:\\users\\draka\\source\\repos\\myemailapp\\resources\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{26AD6BBD-D489-4780-A99E-BD622652DE3C}|MyEmailApp.csproj|solutionrelative:resources\\styles\\colors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26AD6BBD-D489-4780-A99E-BD622652DE3C}|MyEmailApp.csproj|c:\\users\\draka\\source\\repos\\myemailapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{26AD6BBD-D489-4780-A99E-BD622652DE3C}|MyEmailApp.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26AD6BBD-D489-4780-A99E-BD622652DE3C}|MyEmailApp.csproj|c:\\users\\draka\\source\\repos\\myemailapp\\pages\\registeremailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{26AD6BBD-D489-4780-A99E-BD622652DE3C}|MyEmailApp.csproj|solutionrelative:pages\\registeremailpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26AD6BBD-D489-4780-A99E-BD622652DE3C}|MyEmailApp.csproj|c:\\users\\draka\\source\\repos\\myemailapp\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{26AD6BBD-D489-4780-A99E-BD622652DE3C}|MyEmailApp.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26AD6BBD-D489-4780-A99E-BD622652DE3C}|MyEmailApp.csproj|c:\\users\\draka\\source\\repos\\myemailapp\\pages\\registeremailpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{26AD6BBD-D489-4780-A99E-BD622652DE3C}|MyEmailApp.csproj|solutionrelative:pages\\registeremailpage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26AD6BBD-D489-4780-A99E-BD622652DE3C}|MyEmailApp.csproj|c:\\users\\draka\\source\\repos\\myemailapp\\myemailapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{26AD6BBD-D489-4780-A99E-BD622652DE3C}|MyEmailApp.csproj|solutionrelative:myemailapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26AD6BBD-D489-4780-A99E-BD622652DE3C}|MyEmailApp.csproj|c:\\users\\draka\\source\\repos\\myemailapp\\resources\\appicon\\appiconfg.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{26AD6BBD-D489-4780-A99E-BD622652DE3C}|MyEmailApp.csproj|solutionrelative:resources\\appicon\\appiconfg.svg||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26AD6BBD-D489-4780-A99E-BD622652DE3C}|MyEmailApp.csproj|c:\\users\\draka\\source\\repos\\myemailapp\\platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}",
+      "RelativeMoniker": "D:0:0:{26AD6BBD-D489-4780-A99E-BD622652DE3C}|MyEmailApp.csproj|solutionrelative:platforms\\android\\androidmanifest.xml||{4E01A4BC-CFCF-452C-8C08-51352512D197}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,176 +62,178 @@
       "DocumentGroups": [
         {
           "DockedWidth": 184,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "RegisterEmailPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\brendo\\source\\repos\\MyEmailApp\\Pages\\RegisterEmailPage.xaml.cs",
-              "RelativeDocumentMoniker": "Pages\\RegisterEmailPage.xaml.cs",
-              "ToolTip": "C:\\Users\\brendo\\source\\repos\\MyEmailApp\\Pages\\RegisterEmailPage.xaml.cs",
-              "RelativeToolTip": "Pages\\RegisterEmailPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T21:00:52.776Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "EmailFactoryPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\brendo\\source\\repos\\MyEmailApp\\Pages\\EmailFactoryPage.xaml.cs",
-              "RelativeDocumentMoniker": "Pages\\EmailFactoryPage.xaml.cs",
-              "ToolTip": "C:\\Users\\brendo\\source\\repos\\MyEmailApp\\Pages\\EmailFactoryPage.xaml.cs",
-              "RelativeToolTip": "Pages\\EmailFactoryPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T21:00:41.273Z",
+              "Title": "colors.xml",
+              "DocumentMoniker": "C:\\Users\\draka\\source\\repos\\MyEmailApp\\Platforms\\Android\\Resources\\values\\colors.xml",
+              "RelativeDocumentMoniker": "Platforms\\Android\\Resources\\values\\colors.xml",
+              "ToolTip": "C:\\Users\\draka\\source\\repos\\MyEmailApp\\Platforms\\Android\\Resources\\values\\colors.xml",
+              "RelativeToolTip": "Platforms\\Android\\Resources\\values\\colors.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-09-25T01:31:16.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\draka\\source\\repos\\MyEmailApp\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\draka\\source\\repos\\MyEmailApp\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-25T01:31:05.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Styles.xaml",
+              "DocumentMoniker": "C:\\Users\\draka\\source\\repos\\MyEmailApp\\Resources\\Styles\\Styles.xaml",
+              "RelativeDocumentMoniker": "Resources\\Styles\\Styles.xaml",
+              "ToolTip": "C:\\Users\\draka\\source\\repos\\MyEmailApp\\Resources\\Styles\\Styles.xaml",
+              "RelativeToolTip": "Resources\\Styles\\Styles.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-25T01:30:52.605Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "EmailFactoryPage.xaml",
-              "DocumentMoniker": "C:\\Users\\brendo\\source\\repos\\MyEmailApp\\Pages\\EmailFactoryPage.xaml",
-              "RelativeDocumentMoniker": "Pages\\EmailFactoryPage.xaml",
-              "ToolTip": "C:\\Users\\brendo\\source\\repos\\MyEmailApp\\Pages\\EmailFactoryPage.xaml",
-              "RelativeToolTip": "Pages\\EmailFactoryPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAmAAAAAAAAAA==",
+              "Title": "Colors.xaml",
+              "DocumentMoniker": "C:\\Users\\draka\\source\\repos\\MyEmailApp\\Resources\\Styles\\Colors.xaml",
+              "RelativeDocumentMoniker": "Resources\\Styles\\Colors.xaml",
+              "ToolTip": "C:\\Users\\draka\\source\\repos\\MyEmailApp\\Resources\\Styles\\Colors.xaml",
+              "RelativeToolTip": "Resources\\Styles\\Colors.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-09-02T21:00:34.488Z",
+              "WhenOpened": "2025-09-25T01:30:48.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\draka\\source\\repos\\MyEmailApp\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppShell.xaml",
+              "ToolTip": "C:\\Users\\draka\\source\\repos\\MyEmailApp\\AppShell.xaml",
+              "RelativeToolTip": "AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-25T01:06:42.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\draka\\source\\repos\\MyEmailApp\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "C:\\Users\\draka\\source\\repos\\MyEmailApp\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T01:18:22.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserSettingPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\draka\\source\\repos\\MyEmailApp\\Pages\\UserSettingPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\UserSettingPage.xaml.cs",
+              "ToolTip": "C:\\Users\\draka\\source\\repos\\MyEmailApp\\Pages\\UserSettingPage.xaml.cs",
+              "RelativeToolTip": "Pages\\UserSettingPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-25T01:14:33.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserSettingPage.xaml",
+              "DocumentMoniker": "C:\\Users\\draka\\source\\repos\\MyEmailApp\\Pages\\UserSettingPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\UserSettingPage.xaml",
+              "ToolTip": "C:\\Users\\draka\\source\\repos\\MyEmailApp\\Pages\\UserSettingPage.xaml",
+              "RelativeToolTip": "Pages\\UserSettingPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-09-25T01:09:34.468Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "RegisterEmailPage.xaml",
-              "DocumentMoniker": "C:\\Users\\brendo\\source\\repos\\MyEmailApp\\Pages\\RegisterEmailPage.xaml",
+              "DocumentMoniker": "C:\\Users\\draka\\source\\repos\\MyEmailApp\\Pages\\RegisterEmailPage.xaml",
               "RelativeDocumentMoniker": "Pages\\RegisterEmailPage.xaml",
-              "ToolTip": "C:\\Users\\brendo\\source\\repos\\MyEmailApp\\Pages\\RegisterEmailPage.xaml",
+              "ToolTip": "C:\\Users\\draka\\source\\repos\\MyEmailApp\\Pages\\RegisterEmailPage.xaml",
               "RelativeToolTip": "Pages\\RegisterEmailPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwUAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-09-02T21:00:25.599Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "EmailSenderPage.xaml",
-              "DocumentMoniker": "C:\\Users\\brendo\\source\\repos\\MyEmailApp\\Pages\\EmailSenderPage.xaml",
-              "RelativeDocumentMoniker": "Pages\\EmailSenderPage.xaml",
-              "ToolTip": "C:\\Users\\brendo\\source\\repos\\MyEmailApp\\Pages\\EmailSenderPage.xaml",
-              "RelativeToolTip": "Pages\\EmailSenderPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-09-02T21:00:11.912Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EmailSenderPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\brendo\\source\\repos\\MyEmailApp\\Pages\\EmailSenderPage.xaml.cs",
-              "RelativeDocumentMoniker": "Pages\\EmailSenderPage.xaml.cs",
-              "ToolTip": "C:\\Users\\brendo\\source\\repos\\MyEmailApp\\Pages\\EmailSenderPage.xaml.cs",
-              "RelativeToolTip": "Pages\\EmailSenderPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T21:00:04.849Z",
+              "WhenOpened": "2025-09-25T01:07:57.545Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Users\\brendo\\source\\repos\\MyEmailApp\\Pages\\MainPage.xaml",
-              "RelativeDocumentMoniker": "Pages\\MainPage.xaml",
-              "ToolTip": "C:\\Users\\brendo\\source\\repos\\MyEmailApp\\Pages\\MainPage.xaml",
-              "RelativeToolTip": "Pages\\MainPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-09-02T20:58:11.173Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserSettingPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\brendo\\source\\repos\\MyEmailApp\\Pages\\UserSettingPage.xaml.cs",
-              "RelativeDocumentMoniker": "Pages\\UserSettingPage.xaml.cs",
-              "ToolTip": "C:\\Users\\brendo\\source\\repos\\MyEmailApp\\Pages\\UserSettingPage.xaml.cs",
-              "RelativeToolTip": "Pages\\UserSettingPage.xaml.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA1wCIAAAADAAAAAAAAAA==",
+              "Title": "RegisterEmailPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\draka\\source\\repos\\MyEmailApp\\Pages\\RegisterEmailPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\RegisterEmailPage.xaml.cs",
+              "ToolTip": "C:\\Users\\draka\\source\\repos\\MyEmailApp\\Pages\\RegisterEmailPage.xaml.cs",
+              "RelativeToolTip": "Pages\\RegisterEmailPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T20:28:34.943Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\brendo\\source\\repos\\MyEmailApp\\Pages\\MainPage.xaml.cs",
-              "RelativeDocumentMoniker": "Pages\\MainPage.xaml.cs",
-              "ToolTip": "C:\\Users\\brendo\\source\\repos\\MyEmailApp\\Pages\\MainPage.xaml.cs",
-              "RelativeToolTip": "Pages\\MainPage.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T20:59:16.572Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UserSettingPage.xaml",
-              "DocumentMoniker": "C:\\Users\\brendo\\source\\repos\\MyEmailApp\\Pages\\UserSettingPage.xaml",
-              "RelativeDocumentMoniker": "Pages\\UserSettingPage.xaml",
-              "ToolTip": "C:\\Users\\brendo\\source\\repos\\MyEmailApp\\Pages\\UserSettingPage.xaml",
-              "RelativeToolTip": "Pages\\UserSettingPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-09-02T20:49:18.715Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "MauiProgram.cs",
-              "DocumentMoniker": "C:\\Users\\brendo\\source\\repos\\MyEmailApp\\MauiProgram.cs",
-              "RelativeDocumentMoniker": "MauiProgram.cs",
-              "ToolTip": "C:\\Users\\brendo\\source\\repos\\MyEmailApp\\MauiProgram.cs",
-              "RelativeToolTip": "MauiProgram.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T20:42:31.853Z",
+              "WhenOpened": "2025-09-25T01:07:20.732Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "UserSettingValidator.cs",
-              "DocumentMoniker": "C:\\Users\\brendo\\source\\repos\\MyEmailApp\\Services\\Validators\\UserSettingValidator.cs",
-              "RelativeDocumentMoniker": "Services\\Validators\\UserSettingValidator.cs",
-              "ToolTip": "C:\\Users\\brendo\\source\\repos\\MyEmailApp\\Services\\Validators\\UserSettingValidator.cs",
-              "RelativeToolTip": "Services\\Validators\\UserSettingValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T20:39:58.532Z",
+              "Title": "appiconfg.svg",
+              "DocumentMoniker": "C:\\Users\\draka\\source\\repos\\MyEmailApp\\Resources\\AppIcon\\appiconfg.svg",
+              "RelativeDocumentMoniker": "Resources\\AppIcon\\appiconfg.svg",
+              "ToolTip": "C:\\Users\\draka\\source\\repos\\MyEmailApp\\Resources\\AppIcon\\appiconfg.svg",
+              "RelativeToolTip": "Resources\\AppIcon\\appiconfg.svg",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKTSURBVDhPjVNLSFRRGP7unTsz9w75uOaMZlMNpo1aFFJRodRGN7UwatMiKgga3JgVRBSNSA8RooUFLRycCCpc9ITIFi0EW\u002BhCW/gONYUcxplsQL13nKv3dM6ZGV\u002BE9N37c\u002B455/\u002B\u002B/7s/5whYA7/fP5L63BSCIDxvbGxsAiEktZQEE6Brm6K1tXWS5TU0NNQyjsiZKQgCBgBChQ2Q\u002BfswpytgDLmg9zihD9XBNJfhcrlstPoeqlVPRS6uCBDy1broLnN29PkxPeaFFmpC79gOdEu9sB8KQRt\u002Bz/NUVbUGAoGpJIfc5j2gZIuv3fam/sCNGrdjGLGwE23hR\u002BiMeBCKAbXlOTgfr0VW9QfqD4iEZ5BIJNAWDI5yB75X0tXqwrc1JZk90MKVUEq/4UplFc4W5UKwiHjaO4tx90NWiYfT5cQuj4dRITLrZfn9104XtOD3\u002BE4z7/BrqIoKZ4YM37E8XNifA4vdiuCIApPzWY9Wmy9h6UfOpd13t89FstEceyF2PJlAfNHkm6y6xSbxcTASpyuMyFT4NoeI6PV6mzEvvIy0oO\u002BXPVGULaMs186jVLVil0zzF\u002BI4ki\u002BnqjP\u002BGgemrp0Z\u002BHn8T0d0nyrOTky\u002B8x0tNoxE0iZrcSqXz5lAcroCcXkeBcGpyzcnowRTDk9xoDuEmbkE5vRlfB6cRcWzIXibv\u002BNTf5ST0y7SEBa6MGIaOFje2VUnZSgPTFECMZM9YCeLde6cdwvuVLlXrVMFWXGAHqRRaUlDezyEic6tlbFBbW/oS8nHbf0RDZIooDDLipPeTJwozIJJH4EIoG/y1/6Fe/5bj6lFousa0WjoWjoWiLYhGNidWHcXDNhOsVGWFSg0ZCUdDigbIo11Zv73Oq8C\u002BAsr5V2IWWNA0gAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-09-25T01:03:41.638Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AppShell.xaml",
-              "DocumentMoniker": "C:\\Users\\brendo\\source\\repos\\MyEmailApp\\AppShell.xaml",
-              "RelativeDocumentMoniker": "AppShell.xaml",
-              "ToolTip": "C:\\Users\\brendo\\source\\repos\\MyEmailApp\\AppShell.xaml",
-              "RelativeToolTip": "AppShell.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-09-02T18:51:01.933Z",
+              "DocumentIndex": 10,
+              "Title": "MyEmailApp.csproj",
+              "DocumentMoniker": "C:\\Users\\draka\\source\\repos\\MyEmailApp\\MyEmailApp.csproj",
+              "RelativeDocumentMoniker": "MyEmailApp.csproj",
+              "ToolTip": "C:\\Users\\draka\\source\\repos\\MyEmailApp\\MyEmailApp.csproj",
+              "RelativeToolTip": "MyEmailApp.csproj",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-24T23:59:18.493Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "C:\\Users\\draka\\source\\repos\\MyEmailApp\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "Platforms\\Android\\AndroidManifest.xml",
+              "ToolTip": "C:\\Users\\draka\\source\\repos\\MyEmailApp\\Platforms\\Android\\AndroidManifest.xml",
+              "RelativeToolTip": "Platforms\\Android\\AndroidManifest.xml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2025-09-25T00:08:57.194Z"
             }
           ]
         }

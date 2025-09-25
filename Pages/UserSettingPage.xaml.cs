@@ -6,7 +6,7 @@ namespace MyEmailApp.Pages;
 
 public partial class UserSettingPage : ContentPage
 {
-	private MyEmailApp.Entities.UserSettings userSettings;
+	private UserSettings userSettings;
 	private readonly UserSettingValidator _validator;
 	public UserSettingPage(UserSettingValidator validator)
 	{
