@@ -3,14 +3,20 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="MyEmailApp.Pages.RegisterEmailPage"
              Title="Cadastrar Email">
-    <VerticalStackLayout Spacing="10" Margin="10">
+    <VerticalStackLayout 
+        Spacing="10" 
+        Margin="10" 
+        VerticalOptions="Center"
+        MaximumWidthRequest="500">
         <Label 
             Text="Email" />
         <Entry 
             x:Name="txtEmail"
+            Style="{StaticResource EntryStyle}"
             Placeholder="Email do seu destinatário"/>
         <Button 
             x:Name="btnSave"
-            Text="Salvar" />
+            Text="Salvar" 
+            FontSize="20"/>
     </VerticalStackLayout>
 </ContentPage>

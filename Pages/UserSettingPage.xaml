@@ -3,24 +3,41 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="MyEmailApp.Pages.UserSettingPage"
              Title="Configurações">
-    <VerticalStackLayout Margin="10" Spacing="10">
-        <Label Text="Nome"/>
+    
+    <VerticalStackLayout 
+        Margin="10" 
+        Spacing="10"
+        MaximumWidthRequest="500"
+        VerticalOptions="Center">
+        <Label 
+            Text="Configurações" 
+            FontSize="35"
+            HorizontalTextAlignment="Center"/>
+        <Label 
+            Text="Nome"/>
         <Entry 
             x:Name="txtName"
-            Placeholder="Seu nome"/>
+            Placeholder="Seu nome"
+            Style="{StaticResource EntryStyle}"/>
         
-        <Label Text="Email"/>
+        <Label 
+            Text="Email"/>
         <Entry 
             x:Name="txtEmail"
-            Placeholder="Seu email"/>
+            Placeholder="Seu email"
+            Style="{StaticResource EntryStyle}"/>
 
-        <Label Text="Senha"/>
+        <Label 
+            Text="Senha"/>
         <Entry 
             x:Name="txtPassword"
-            Placeholder="Senha de App criada no Email"/>
+            Placeholder="Senha de App criada no Email"
+            Style="{StaticResource EntryStyle}"/>
+        
         <Button 
             x:Name="btnSave"
             Text="Salvar Configurações"
-            Clicked="btnSave_Clicked"/>
+            Clicked="btnSave_Clicked"
+            FontSize="20"/>
     </VerticalStackLayout>
 </ContentPage>

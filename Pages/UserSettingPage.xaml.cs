@@ -43,13 +43,19 @@ public partial class UserSettingPage : ContentPage
             await Validate(userSetting);
 
 			string userSettingsJson = JsonSerializer.Serialize(userSetting);
-			await SecureStorage.SetAsync("UserSetting",userSettingsJson);
+			await SecureStorage.SetAsync("UserSetting", userSettingsJson);
 
 			await DisplayAlert("Pronto meu parceiro!", "Configurações salvas com sucesso!", "Ok");
         }
 		catch(Exception ex)
 		{
-			await DisplayAlert("Erro", ex.Message,"Ok");
+			await DisplayAlert("Informação", ex.Message,"Ok");
+		}
+		finally
+		{
+			txtEmail.Text = string.Empty;
+			txtName.Text = string.Empty;
+			txtPassword.Text = string.Empty;
 		}
     }
 
